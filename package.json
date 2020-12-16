@@ -1,0 +1,53 @@
+{
+  "name": "jamify-docs",
+  "description": "Jamify Documentation - Publish flaring fast blogs with Next.js and Ghost CMS",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Joost Jansky",
+  "keywords": [
+    "documentation",
+    "nextjs",
+    "next.js",
+    "nextjs-blog",
+    "nextjs-starter",
+    "nextjs-example",
+    "nextjs-starter-ghost",
+    "nextjs-serverless",
+    "gatsby-alternative",
+    "jamify",
+    "jamify-starter",
+    "jamify-starter-ghost",
+    "ghost",
+    "ghost-cms",
+    "ghost-theme",
+    "casper",
+    "casper-ghost",
+    "blogging",
+    "wordpress-alternative",
+    "static-site",
+    "static-site-generator",
+    "lighthouse",
+    "typescript",
+    "react"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "clean": "rm -rf .cache public/images"
+  },
+  "dependencies": {
+    "next": "^10.0.3",
+    "nextra": "^0.3.1",
+    "nextra-theme-docs": "^1.0.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  }
+}
