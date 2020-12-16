@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/styxlab/next-cms-ghost', // project repo
-  docsRepository: 'https://docs.jamify.org', // docs repo
+  docsRepository: 'https://github.com/styxlab/jamify-docs', // docs repo
   branch: 'master', // branch of docs
   path: '/', // path of docs
   titleSuffix: ' – Jamify',

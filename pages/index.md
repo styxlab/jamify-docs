@@ -1,6 +1,6 @@
 # next-cms-ghost
 
-**next-cms-ghost** is a flaring fast blog front end powered by [Next.js](https://nextjs.org) ready to source content from a headless Ghost CMS. The front end is a full Ghost Casper clone replacting Ghost handlebars with modern React. This project uses Next.js hypbrid approach, thus delivering fastest, fully SEO optimized static sites that can be quickly updated with incremental static regeneration.
+**next-cms-ghost** is a flaring fast blog front end powered by [Next.js](https://nextjs.org) ready to source content from a headless Ghost CMS. The front end is a full Ghost Casper clone replacing Ghost handlebars with modern React. This project uses Next.js hypbrid approach, thus delivering blazing fast, fully SEO optimized static sites that can be quickly updated with incremental static regeneration.
 
 <br/>
 
