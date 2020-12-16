@@ -9,12 +9,12 @@
 ## ✨ Features
 
 <details >
-  <summary>
+  <summary style={{ cursor: 'pointer' }}>
     <span style={{ display: 'inline-block'}}>Ghost CMS integration</span>
     </summary>
 </details>
 <details>
-  <summary>
+  <summary style={{ cursor: 'pointer' }}>
     <span style={{ display: 'inline-block'}}>Ghost Casper look & feel</span>
     </summary>
   <ul>
@@ -30,7 +30,7 @@
   </ul>
 </details>
 <details>
-  <summary>
+  <summary style={{ cursor: 'pointer' }}>
     <span style={{ display: 'inline-block'}}>Extened Casper Styles ✨</span>
   </summary>
   <ul>
@@ -40,7 +40,7 @@
   </ul>
 </details>
 <details>
-  <summary>
+  <summary style={{ cursor: 'pointer' }}>
     <span style={{ display: 'inline-block'}}>Images with Next/Images 🚀</span>
   </summary>
   <ul>
@@ -50,7 +50,7 @@
   </ul>
 </details>
 <details>
-  <summary>
+  <summary style={{ cursor: 'pointer' }}>
     <span style={{ display: 'inline-block'}}>Andvanced Routing</span>
   </summary>
   <ul>
@@ -59,7 +59,7 @@
   </ul>
 </details>
 <details>
-  <summary>
+  <summary style={{ cursor: 'pointer' }}>
     <span style={{ display: 'inline-block'}}>Developer friendly</span>
   </summary>
   <ul>
@@ -70,7 +70,7 @@
   </ul>
 </details>
 <details>
-  <summary>
+  <summary style={{ cursor: 'pointer' }}>
     <span style={{ display: 'inline-block'}}>Integrated Plugins</span>
   </summary>
   <ul>
@@ -82,7 +82,7 @@
   </ul>
 </details>
 <details>
-  <summary>
+  <summary style={{ cursor: 'pointer' }}>
     <span style={{ display: 'inline-block'}}>NextJS Features</span>
   </summary>
   <ul>
